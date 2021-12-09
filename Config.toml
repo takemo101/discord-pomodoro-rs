@@ -1,0 +1,7 @@
+[setting]
+name = "takemo"
+endpoint = "https://xxxx.com/xxxxx/send"
+
+[time]
+run = 20
+rest = 5
